@@ -1,0 +1,99 @@
+Khulna University, Bangladesh
+Year: First; Term: Second,
+course name: Law of Contract,
+Course Code: 0421 28 Law 1203,
+course Status: core,
+Credit: 3.0
+Prerequisite(s): None
+Rationale: The course is designed to introduce students to the rules and procedures of making a contract and the principles of tort.
+## Course Contents
+### Section A
+1. [[0. Introduction to contract|Introduction]]:
+	1. [[1. History and development|History and development]],
+	2. [[2. Character of modern contracts|Character of modern contracts]],
+	3. [[3. Principles of contract|Principles of contract]],
+	4. [[4. Basis of contract Law|Basis of contract Law]],
+	5. [[5. Essential elements of contract|Essential elements of contract]];
+2. [[0. Formation of contract|Formation of contract]]:
+	1. [[1. Offer|Offer]],
+	2. [[2. Acceptance|Acceptance]],
+	3. [[3. Termination of offer|Termination of offer]],
+	4. [[4. Consideration|Consideration]],
+	5. [[5. Unlawful consideration|Unlawful consideration]],
+	6. [[6. Legality of object|Legality of object]],
+	7. [[7. Void agreements|Void agreements]],
+	8. [[8. Free consent|Free consent]],
+	9. [[9. Contingent contracts|Contingent contracts]],
+	10. [[10. Distinction between contingent contract and wagering agreement|Distinction between contingent contract and wagering agreement]]; 
+3. [[0. Quasi-Contracts|Quasi-Contracts]]:
+	1. [[1. Definition of Quasi-Contracts|Definition]],
+	2. [[2. Incapable persons|Incapable persons]],
+	3. [[3. Reimbursement|Reimbursement]],
+	4. [[4. Non-gratuitous act|Non-gratuitous act]];
+4. [[0. Performance of Contracts|Performance of Contracts]]:
+	1. [[1. Offer to perform|Offer to perform]],
+	2. [[2. Liability to perform|Liability to perform]],
+	3. [[3. Joint rights and liabilities|Joint rights and liabilities]],
+	4. [[4. Reciprocal promises|Reciprocal promises]],
+	5. [[5. Contracts which need not be performed|Contracts which need not be performed]],
+	6. [[6. Assignment of contracts|Assignment of contracts]],
+	7. [[7. Time and place of performance|Time and place of performance]],
+	8. [[8. Performance within stipulated time|Performance within stipulated time]],
+	9. [[9. Appropriation of payments|Appropriation of payments]];
+5. [[0. Termination of Contract|Termination]]:
+	1. [[1. Methods of termination|Methods of termination]],
+	2. [[2. Termination by performance and mutual agreement|Termination by performance and mutual agreement]],
+	3. [[3. Novation, alteration, remission, accord and satisfaction|Novation, alteration, remission, accord and satisfaction]],
+	4. [[4. Rescission|Rescission]],
+	5. [[5. Waiver|Waiver]],
+	6. [[6. Merger|Merger]],
+	7. [[7. Supervening impossibility|Supervening impossibility]],
+	8. [[8. Doctrine of frustration|Doctrine of frustration]],
+	9. [[9. Operation of law|Operation of law]],
+	10. [[ 10. Lapse of time|Lapse of time]],
+	11. [[11. Breach of contract|Breach of contract]];
+
+### Section B
+6. Remedies:
+	1. Amount of Damages,
+	2. Liquidated Damages and Penalty,
+	3. Quantum Meruit,
+	4. Specific performance,
+	5. Injunction,
+	6. Restitution of benefit;
+7. Indemnity and Guarantee:
+	1. Contracts of indemnity,
+	2. Contracts of guarantee,
+	3. Distinction,
+	4. Continuing guarantee,
+	5. Extent of liability and surety,
+	6. Rights of sureties;
+8. Bailment and Pledge:
+	1. Definition,
+	2. Characteristics,
+	3. Types,
+	4. Rights and duties of a bailee and a bailor,
+	5. Termination,
+	6. Rights and duties of finder of goods,
+	7. Suits against wrongdoer,
+	8. Bailment of way of pledge or pawn,
+	9. Rights of pledgor and pawnee;
+9. Law of Agency:
+	1. Definition and nature,
+	2. Power of attorney,
+	3. Enforcement and consequences,
+	4. Types of agents,
+	5. Test of agency,
+	6. Agent's authority, 
+	7. Liability, 
+	8. Misrepresentation and fraud by agent,
+	9. Sub and Co-agents,
+	10. Termination,
+	11. Principal's rights and duties, Responsibility of agents;
+
+
+## Course Learning Outcomes
+1. Explain and analyze the nature of a contract and its use and value in society;
+2. Determine the elements of a void contract;
+3. Find out contractual defects, methods of discharging and breaching a contract and remedies for breach of contract;
+4. Recognize the formal requirements necessary to create a valid contract;
