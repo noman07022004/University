@@ -49,39 +49,39 @@ Rationale: The course is designed to introduce students to the rules and procedu
 	6. [[6. Defenses to Nuisance|Defenses]];
 
 ### Section B
-6. Defamation:
-	1. General concept,
-	2. Libel and slander,
-	3. Innuendo,
-	4. Publication,
-	5. Defenses,
-	6. Justification,
-	7. Remedies;
-7. Privacy:
-	1. General concept,
-	2. General principles,
-	3. Privacy as human right;
-8. Deceit:
-	1. General concept,
-	2. Malicious falsehood,
-	3. Passing off,
-	4. Defenses,
-	5. Remedies;
-9. Theoretical Foundations:
-	1. Tort as a compensation culture,
-	2. Necessity and feasibility of a compensation statute in Bangladesh;
-	3. Negligence and Malpractice:
+6. [[0. Defamation]]:
+	1. [[1. General concept of Defamation]],
+	2. [[2. Libel and slander]],
+	3. [[3. Innuendo]],
+	4. [[4. Publication]],
+	5. [[5. Defenses]],
+	6. [[6. Justification]],
+	7. [[7. Remedies]];
+7. [[0. Privacy]]:
+	1. [[1. General concept of Privacy]],
+	2. [[2. General principles]],
+	3. [[3. Privacy as human right]];
+8. [[0. Deceit]]:
+	1. [[1. General concept]],
+	2. [[2. Malicious falsehood]],
+	3. [[3. Passing off]],
+	4. [[4. Defenses]],
+	5. [[5. Remedies]];
+9. [[0. Theoretical Foundations]]:
+	1. [[1. Tort as a compensation culture]],
+	2. [[2. Necessity and feasibility of a compensation statute in Bangladesh]];
+	3. [[3. Negligence and Malpractice]]:
 		1. Medical malpractice and liability in Bangladesh;
-	4. Constitutional Tort and Contemporary Issues:
+	4. [[4. Constitutional Tort and Contemporary Issues]]:
 		1. Constitutional Tort in Bangladesh;
-	5. Feminist perspectives,
-	6. Sexual disclosure and privacy law;
-10. Consumer Protection:
-	1. Definitions,
-	2. Consumer council,
-	3. Effect of laissez faire,
-	4. Rights of a consumer,
-	5. Areas of consumer protection laws.
+	5. [[5. Feminist perspectives]],
+	6. [[6. Sexual disclosure and privacy law]];
+10. [[0. Consumer Protection]]:
+	1. [[1. Definitions of Consumer Protection]],
+	2. [[2. Consumer council]],
+	3. [[3. Effect of laissez faire]],
+	4. [[4. Rights of a consumer]],
+	5. [[5. Areas of consumer protection laws]].
 
 ## Course Learning Outcomes
 1. Explain the nature of a tortious liability and its use and value in society;

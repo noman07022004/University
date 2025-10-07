@@ -26,32 +26,32 @@ Rationale: The course is designed to let the students achieve autonomy in the in
 	4. [[4. Multimedia]],
 	5. [[5. Connectivity]],
 	6. [[6. Security]];
-3. Basics of Word Processing and Presentation:
-	1. Microsoft Word,
-	2. PowerPoint;
-4. Basics of Data Management Software:
-	1. Microsoft Excel;
-5. Referencing Software:
-	1. Zotero,
-	2. End Note,
-	3. Mendeley;
+3. [[0. Basics of Word Processing and Presentation]]:
+	1. [[1. Microsoft Word]],
+	2. [[2. PowerPoint]];
+4. [[0. Basics of Data Management Software]]:
+	1. [[1. Microsoft Excel]];
+5. [[0. Referencing Software]]:
+	1. [[1. Zotero]],
+	2. [[2. End Note]],
+	3. [[3. Mendeley]];
 ### Section B
-1. Cyber Ethics:
-	1. Accessing internet and netizen community standards,
-	2. Cyber security and privacy rights;
-2. Use of Virtual Learning Management Systems:
-	1. Google Classroom;
-3. Use of Search Engines:
-	1. General Searches,
-	2. Publication and resources;
-4. Communication and Social Media Platforms:
-	1. Email services,
-	2. Institutional email service setup,
-	3. Zoom,
-	4. Google Meet,
-	5. Facebook,
-	6. Cloud computing,
-	7. Scanning applications;
+6. [[0. Cyber Ethics]]:
+	1. [[1. Accessing internet and netizen community standards]],
+	2. [[2. Cyber security and privacy rights]];
+7. [[0. Use of Virtual Learning Management Systems]]:
+	1. [[1. Google Classroom]];
+8. [[0. Use of Search Engines]]:
+	1. [[1. General Searches]],
+	2. [[2. Publication and resources]];
+9. [[0. Communication and Social Media Platforms]]:
+	1. [[1. Email services]],
+	2. [[2. Institutional email service setup]],
+	3. [[3. Zoom]],
+	4. [[4. Google Meet]],
+	5. [[5. Facebook]],
+	6. [[6. Cloud computing]],
+	7. [[7. Scanning applications]];
 
 ## Course Learning Outcomes
 1. Understand the basic concepts of information and communication technologies;

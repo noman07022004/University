@@ -54,42 +54,42 @@ Rationale: The course is designed to introduce students to the rules and procedu
 	11. [[11. Breach of contract|Breach of contract]];
 
 ### Section B
-6. Remedies:
-	1. Amount of Damages,
-	2. Liquidated Damages and Penalty,
-	3. Quantum Meruit,
-	4. Specific performance,
-	5. Injunction,
-	6. Restitution of benefit;
-7. Indemnity and Guarantee:
-	1. Contracts of indemnity,
-	2. Contracts of guarantee,
-	3. Distinction,
-	4. Continuing guarantee,
-	5. Extent of liability and surety,
-	6. Rights of sureties;
-8. Bailment and Pledge:
-	1. Definition,
-	2. Characteristics,
-	3. Types,
-	4. Rights and duties of a bailee and a bailor,
-	5. Termination,
-	6. Rights and duties of finder of goods,
-	7. Suits against wrongdoer,
-	8. Bailment of way of pledge or pawn,
-	9. Rights of pledgor and pawnee;
-9. Law of Agency:
-	1. Definition and nature,
-	2. Power of attorney,
-	3. Enforcement and consequences,
-	4. Types of agents,
-	5. Test of agency,
-	6. Agent's authority, 
-	7. Liability, 
-	8. Misrepresentation and fraud by agent,
-	9. Sub and Co-agents,
-	10. Termination,
-	11. Principal's rights and duties, Responsibility of agents;
+6. [[0. Remedies]]:
+	1. [[1. Amount of Damages]],
+	2. [[2. Liquidated Damages and Penalty]],
+	3. [[3. Quantum Meruit]],
+	4. [[4. Specific performance]],
+	5. [[5. Injunction]],
+	6. [[6. Restitution of benefit]];
+7. [[0. Indemnity and Guarantee]]:
+	1. [[1. Contracts of indemnity]],
+	2. [[2. Contracts of guarantee]],
+	3. [[3. Distinction]],
+	4. [[4. Continuing guarantee]],
+	5. [[5. Extent of liability and surety]],
+	6. [[6. Rights of sureties]];
+8. [[0. Bailment and Pledge]]:
+	1. [[1. Definition of Bailment and Pledge]],
+	2. [[2. Characteristics]],
+	3. [[3. Types of Bailment and Pledge]],
+	4. [[4. Rights and duties of a bailee and a bailor]],
+	5. [[5. Termination]],
+	6. [[6. Rights and duties of finder of goods]],
+	7. [[7. Suits against wrongdoer]],
+	8. [[8. Bailment of way of pledge or pawn]],
+	9. [[9. Rights of pledgor and pawnee]];
+9. [[0. Law of Agency]]:
+	1. [[1. Definition and nature]],
+	2. [[2. Power of attorney]],
+	3. [[3. Enforcement and consequences]],
+	4. [[4. Types of agents]],
+	5. [[5. Test of agency]],
+	6. [[6. Agent's authority]], 
+	7. [[7. Liability]], 
+	8. [[8. Misrepresentation and fraud by agent]],
+	9. [[9. Sub and Co-agents]],
+	10. [[10. Termination]],
+	11. [[11. Principal's rights and duties, Responsibility of agents]];
 
 
 ## Course Learning Outcomes
